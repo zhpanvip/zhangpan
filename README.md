@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/zhpanvip">
-    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=zhpanvip&show_icons=true&line_height=24&show_icons=true&theme=buefy&include_all_commits=true" />
+    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=zhpanvip&show_icons=true&line_height=21&show_icons=true&theme=buefy&include_all_commits=true" />
   </a>
   
   <a href="https://github.com/zhpanvip">
