@@ -1,15 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/zhpanvip">
-    <img src="https://github-readme-stats.wasabeef.vercel.app/api?username=zhpanvip&show_icons=true&line_height=21&show_icons=true&theme=buefy&include_all_commits=true" />
-  </a>
-  
-  <a href="https://github.com/zhpanvip">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhpanvip&layout=compact" />
-  </a>
-  
-</p>
-
 <p align="center">
   <a href="https://zhpanvip.gitee.io">
     <img src="https://img.shields.io/badge/✨-我的博客-brightness.svg" />
@@ -21,6 +9,19 @@
   <img src="https://img.shields.io/badge/🎃%20-CSDN-brightness.svg" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/zhpanvip">
+    <img src="https://github-readme-stats.vercel.app/api?username=zhpanvip&count_private=true&show_icons=true&line_height=21&include_all_commits=true&theme=buefy" />
+  </a>
+  
+  <a href="https://github.com/zhpanvip">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhpanvip&layout=compact" />
+  </a>
+  
+</p>
+
+
 
 
   
