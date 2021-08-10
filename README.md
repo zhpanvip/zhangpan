@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/🍧-掘金-orange.svg" />  
   </a>
   <a href="https://blog.csdn.net/qq_20521573">
-  <img src="https://img.shields.io/badge/🎃%20-CSDN-brightness.svg" />
+  <img src="https://img.shields.io/badge/公众号-玩转安卓Dev-brightness.svg" />
   </a>
 </p>
 
