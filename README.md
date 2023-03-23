@@ -1,23 +1,21 @@
 ### Hi there👋  Welcome to my github page 
 
-<p align="center">
-  <a href="https://zhangpan.site">
-    <img src="https://img.shields.io/badge/✨-我的博客-brightness.svg" />
-  </a>
-  <a href="https://juejin.im/user/2735240659359448/posts">
-    <img src="https://img.shields.io/badge/🍧-掘金-orange.svg" />  
-  </a>
-  <a href="https://blog.csdn.net/qq_20521573">
-  <img src="https://img.shields.io/badge/公众号-玩转安卓Dev-brightness.svg" />
-  </a>
-</p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/zhpanvip">
     <img src="https://github-readme-stats.vercel.app/api?username=zhpanvip&count_private=true&show_icons=true&line_height=21&include_all_commits=true&theme=buefy" />
   </a>
   
 </p>
+
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://zhangpan.site" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/blog/favicon.png" alt="Blog" height="35" width="35" /></a>
+<a href="https://juejin.im/user/2735240659359448/posts" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/juejin.png" alt="juejin" height="35" width="38" /></a>
+<a href="https://blog.csdn.net/qq_20521573" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/csdn.png" alt="csdn" height="35" width="35" /></a>
+<a href="mailto:zhpanvip@outlook.com" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/email.png" alt="email" height="35" width="35" /></a>
+
 
 #### 📕 Latest Blog Posts
 
