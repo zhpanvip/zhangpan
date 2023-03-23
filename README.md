@@ -1,4 +1,4 @@
-### Hi there👋  Welcome to my github page 
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a>  Welcome to my github page 
 
 
 <p align="left">
