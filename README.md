@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"></a>  Welcome to my github page 
+&nbsp;**Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  Welcome to my github page**
 
 
 <p align="left">
@@ -17,7 +17,7 @@
 <a href="mailto:zhpanvip@outlook.com" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/email.png" alt="email" height="35" width="35" /></a>
 
 
-#### 📕 Latest Blog Posts
+📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
