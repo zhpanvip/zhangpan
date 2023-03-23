@@ -10,11 +10,12 @@
 
 
 🔗 &nbsp;**Connect with me**
+
 <p align="left">
-<a href="https://zhangpan.site" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/blog/favicon.png" alt="Blog" height="35" width="35" /></a>
-<a href="https://juejin.im/user/2735240659359448/posts" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/juejin.png" alt="juejin" height="35" width="38" /></a>
-<a href="https://blog.csdn.net/qq_20521573" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/csdn.png" alt="csdn" height="35" width="35" /></a>
-<a href="mailto:zhpanvip@outlook.com" target="blank"><img align="center" src="https://github.com/zhpanvip/images/blob/master/project/icon/email.png" alt="email" height="35" width="35" /></a>
+<a href="https://github.com/zhpanvip/images/blob/master/project/group/wechat.png?raw=true" target="blank"><img align="center" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="wechat" /></a>
+<a href="mailto:zhpanvip@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://zhangpan.site" target="blank"><img align="center" src="https://img.shields.io/badge/My%20Blog-FF8800?style=for-the-badge&logoColor=white" alt="Blog"/></a>
+<a href="https://juejin.im/user/2735240659359448/posts" target="blank"><img align="center" src="https://img.shields.io/badge/Jue%20jin-0056D2?style=for-the-badge&logoColor=white" alt="juejin"/></a>
 
 
 📕 &nbsp;**Latest Blog Posts**
