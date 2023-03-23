@@ -1,25 +1,29 @@
+# This is a basic workflow to help you get started with Actions
 
-# workflow 名称
-name: CI
+name: Blog
 
+# Controls when the workflow will run
 on:
-  # push 的时候触发
-  push:
-    branches: [ master ]
-  # 每周二触发
+  # Triggers the workflow on push or pull request events but only for the master branch
+  # push:
+  #   branches: [ master ]
   schedule:
-    - cron: '0 21 * * 2'
+    # Runs at 10:00 UTC+8 every day
+    - cron: '0 2 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  # 更新博客 Job2
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"        
   blog:
     timeout-minutes: 10
     runs-on: ubuntu-latest
-    needs: social
     steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # 使用 docker compose 部署 rsshub
       - name: Start containers
         run: docker-compose -f "docker-compose.yml" up -d --build
 
@@ -31,7 +35,6 @@ on:
       - name: Install dependencies
         run: npm install
 
-      # 将注释替换成更新博客链接
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "http://localhost:1200/juejin/posts/2735240659359448"
@@ -39,4 +42,3 @@ on:
       - name: Stop containers
         if: always()
         run: docker-compose -f "docker-compose.yml" down
-
