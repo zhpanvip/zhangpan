@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/zhpanvip">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhpanvip&count_private=true&show_icons=true&line_height=26&include_all_commits=truetheme=buefy&bg_color=30,FFEEEE,ddefbb" />
+    <img src="https://github-readme-stats.vercel.app/api?username=zhpanvip&count_private=true&show_icons=true&line_height=26&include_all_commits=true&theme=buefy&bg_color=30,FFEEEE,ddefbb" />
   </a>
   
 </p>
