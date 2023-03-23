@@ -16,13 +16,13 @@
   <a href="https://github.com/zhpanvip">
     <img src="https://github-readme-stats.vercel.app/api?username=zhpanvip&count_private=true&show_icons=true&line_height=21&include_all_commits=true&theme=buefy" />
   </a>
+  
+</p>
 
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-  
-</p>
 
 
 
