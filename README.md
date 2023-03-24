@@ -20,12 +20,6 @@
 
 📕 &nbsp;**Latest Blog Posts**
 
-- [基于 Android 13 的 Activity 启动流程分析](https://juejin.cn/post/7211801284709548093)
-- [Android 架构思想与 MVVM 框架封装](https://juejin.cn/post/7147215414538272776)
-- [反思 Android 消息机制的设计与实现](https://juejin.cn/post/7110625878320775204)
-- [浅析Java 中的动态代理](https://juejin.cn/post/6999094101761064996)
-- [不得不说的 Android Binder 机制与 AIDL](https://juejin.cn/post/6994057245113729038)
-
 <!-- BLOG-POST-LIST:START -->
 - [基于 Android 13 的 Activity 启动流程分析](https://juejin.cn/post/7211801284709548093)
 - [Android 架构思想与 MVVM 框架封装](https://juejin.cn/post/7147215414538272776)
